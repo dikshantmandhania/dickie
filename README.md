@@ -1,4 +1,4 @@
 # dickie
 This is my first Git Repo
 <br>
-Author - Dikshant
+Author - Dikshant Mandhania
